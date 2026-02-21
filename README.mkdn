@@ -1,0 +1,12 @@
+> Copyright (C) 2026 Lilium Project
+
+Android device configuration for Motorola Knoir Platform.
+
+### Supported devices
+
+| Device | Codename |
+|-|:-:|
+| moto g84 5G | bangkk |
+| moto g34 5G | fogos |
+| moto g45 5G | fogos |
+| moto g82 5G | rhodep |
